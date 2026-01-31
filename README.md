@@ -5,7 +5,7 @@ Notebook Structure
 Each exercise in the notebook follows this format:
 Original buggy code - The provided code with bugs
 Test case - Code that demonstrates the bug
-Fixed code cell - My corrected solution immediately after the buggy code
+Fixed code cell - corrected solution immediately after the buggy code
 
 Exercise 1: Set Indexing Bug
 Problem: Sets in Python are unordered - indexing gives unpredictable results.
